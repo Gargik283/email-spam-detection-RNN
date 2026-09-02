@@ -98,7 +98,7 @@ The application will open in your browser.
 
 ## 🌐 Live Demo
 
-**Streamlit App:** Add your deployed Streamlit URL here after deployment.
+**Streamlit App:** https://email-spam-detection-rnn-7zvqcr32qdwhk5un9xej85.streamlit.app/
 
 ## 📌 Key Concepts
 
